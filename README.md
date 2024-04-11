@@ -4,7 +4,7 @@ This is a movie liste app made with React where users can add their favorite mov
 
 ### Features
 
-* Users can search for movies by title.
+* Users can search for movies by title or key words.
 * Users can view a list of all movies.
 * Users can add movies to their favorites list.
 * Users can view their favorites list.
