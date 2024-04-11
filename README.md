@@ -1,6 +1,6 @@
 ## Movie List App
 
-This is a movie liste app made with React where users can add their favorite movies. It uses Bootstrap for styling.
+This is a movie liste app made with React where users can add their favorite movies. It uses the OMDb API and Bootstrap for styling.
 
 ### Features
 
