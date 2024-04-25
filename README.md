@@ -11,4 +11,4 @@ This is a movie list app made with React where users can add their favorite movi
 
 ### Installation
 
-To install the app, run the following command: npm run
+To install the app, run npm install; followed by npm run.
